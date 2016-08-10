@@ -4,6 +4,6 @@ module.exports = {
   //color: '#980c8e'  //PURPLE
   //color: '#bf4912'  //RED
   //color: '#ac8601'  //ORANGE
-  color: '#449999'  //TEAL
-  //color: '#FFFF00'  //YELLOW
+  //color: '#449999'  //TEAL
+  color: '#FFFF00'  //YELLOW
 };
