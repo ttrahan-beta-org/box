@@ -17,7 +17,7 @@ integrations:
           - master
 
   notifications:
-    - integrationName: trigger-box-pipeline
+    - integrationName: trigger-org-box-pipeline
       type: webhook
       payload:
         - versionName=$BRANCH.$BUILD_NUMBER
