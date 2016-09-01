@@ -15,11 +15,11 @@ integrations:
       branches:
         only:
           - master
-    - integrationName: ttrahan-dtr
-      type: dtr
-      branches:
-        only:
-          - ddc
+    # - integrationName: ttrahan-dtr
+    #   type: dtr
+    #   branches:
+    #     only:
+    #       - ddc
 
 
   notifications:
