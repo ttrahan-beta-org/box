@@ -15,6 +15,12 @@ integrations:
       branches:
         only:
           - master
+    - integrationName: ttrahan-dtr
+      type: dtr
+      branches:
+        only:
+          - ddc
+
 
   notifications:
     - integrationName: trigger-org-box-pipeline
