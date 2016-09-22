@@ -2,7 +2,7 @@ language: none
 
 build:
   ci:
-    - export IMAGE_NAME=ttrahan/box
+    - export IMAGE_NAME=ttrahan/box-priv
     - ./build.sh
 
   post_ci:
